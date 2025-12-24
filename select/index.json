@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "チュルリラ・チュルリラ・ダッダッダ!",
+  "base_artist": "和田たけあき (くらげP)",
+  "createdAt": "2025-12-24T02:43:43.365793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ!",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類",
+      "has_synced": true,
+      "path": "select/01_チュルリラ・チュルリラ・ダッダッダ!_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ! (feat. 天馬司&鳳えむ&草薙寧々&神代類)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_チュルリラ・チュルリラ・ダッダッダ!_(feat._天馬司&鳳えむ&草薙寧々&神代類)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ!",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類",
+      "has_synced": true,
+      "path": "select/03_チュルリラ・チュルリラ・ダッダッダ!_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ！",
+      "artist": "+α",
+      "has_synced": true,
+      "path": "select/04_チュルリラ・チュルリラ・ダッダッダ!_+α.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ!",
+      "artist": "+α/あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/05_チュルリラ・チュルリラ・ダッダッダ!_+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ！",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/06_チュルリラ・チュルリラ・ダッダッダ!_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ!",
+      "artist": "和田たけあき(くらげP)",
+      "has_synced": true,
+      "path": "select/07_チュルリラ・チュルリラ・ダッダッダ!_和田たけあき(くらげP).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ!",
+      "artist": "Wonderlands×Showtime",
+      "has_synced": true,
+      "path": "select/08_チュルリラ・チュルリラ・ダッダッダ!_Wonderlands×Showtime.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "チュルリラ・チュルリラ・ダッダッダ！",
+      "artist": "Alfakyun.",
+      "has_synced": false,
+      "path": "select/09_チュルリラ・チュルリラ・ダッダッダ!_Alfakyun..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チュルリラ・チュルリラ・ダッダッダ!",
+      "artist": "和田たけあき(くらげP)",
+      "has_synced": false,
+      "path": "select/pl_01_チュルリラ・チュルリラ・ダッダッダ!_和田たけあき(くらげP).txt"
+    }
+  ]
+}
